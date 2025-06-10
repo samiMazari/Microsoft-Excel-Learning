@@ -2,9 +2,9 @@
 A personal repository documenting my progress through the Microsoft Excel Professional Certificate program. Includes notes, exercises, and projects.
 excel-professional-certificate/             
 ├── 📄 README.md                 
-├── 📁 Module_1_Basics/           
+├── 📁 Excel and Copilot Fundamentals/                   
 │   ├── notes.md                        
-│   └── exercices.xlsx                    
+│   └── exercices.xlsx                   
 ├── 📁 Module_2_Formulas/                
 │   ├── notes.md                 
 │   └── exercices.xlsx                  
