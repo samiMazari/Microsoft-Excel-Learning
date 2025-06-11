@@ -190,5 +190,7 @@ Action: Seek feedback from colleagues or stakeholders on the effectiveness of th
 
 Benefit: Provides insights into potential improvements and confirms that formatting meets the needs of the audience. 
 
-**Conclusion**    
-Applying best practices in formatting can greatly enhance the readability and presentation of data in Excel. By using consistent fonts, colors, and alignment, and leveraging features like conditional formatting and Copilot in Excel, you can create clear, professional-looking spreadsheets. Effective formatting not only improves data clarity but also makes your work more efficient and impactful.       
+    
+Applying best practices in formatting can greatly enhance the readability and presentation of data in Excel. By using consistent fonts, colors, and alignment, and leveraging features like conditional formatting and Copilot in Excel, you can create clear, professional-looking spreadsheets. Effective formatting not only improves data clarity but also makes your work more efficient and impactful.  
+
+--- 
