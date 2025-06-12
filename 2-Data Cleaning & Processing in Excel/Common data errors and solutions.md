@@ -95,7 +95,7 @@ To highlight these cells in color, type Show me cells with invalid data types in
 
 Manually change text-based numbers to numeric values in the highlighted cells, for example, replace "one" with "1", "two" with "2", and so on.
 
-**Conclusion**
+**Conclusion**             
 Like any new tool, Copilot takes some getting used to, but its ability to automate tasks quickly can make managing large datasets a whole lot easier. 
 
 Practice with Copilot and you’ll find that the efficiency it brings to your data management is well worth the effort.
