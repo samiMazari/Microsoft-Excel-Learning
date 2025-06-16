@@ -1,0 +1,60 @@
+**High-level overview**           
+Regression analysis is a powerful tool for predicting how one variable might influence another. Whether you’re exploring how interest rates affect stock prices or how advertising spending impacts sales, regression analysis helps uncover relationships in your data. Copilot in Excel streamlines this process, allowing you to quickly run regression analyses and visualize the results. This reading will guide you through the steps of performing regression analysis using Copilot, helping you gain insights into the data relationships.
+
+**Learning objectives**      
+By the end of this reading, you will be able to:
+
+use Copilot in Excel to perform a regression analysis
+
+generate and interpret regression equations and R-squared values
+
+visualize relationships between variables using charts and trendlines
+
+**Theory behind regression analysis**           
+Regression analysis focuses on examining relationships between dependent and independent variables. It allows you to predict future outcomes based on these relationships. There are two main types of regression:
+
+**Simple linear regression**: Uses one independent variable to predict a dependent variable.
+
+**Multiple regression**: Involves more than one independent variable to predict a dependent variable.
+
+For example, in retail, regression analysis can help you analyze how product pricing affects sales. By running the analysis, you can forecast future sales performance based on different price points.
+
+**Why regression analysis matters**                           
+Understanding relationships between variables is crucial for making informed, data-driven decisions. Regression analysis allows you to:
+
+**Predict outcomes**: Use historical data to forecast future trends.
+
+**Measure impact**: Determine how much one variable (e.g., advertising spend) affects another (e.g., sales revenue).
+
+**Optimize decision-making**: By understanding relationships in your data, you can make strategic adjustments to improve outcomes.
+
+It is widely used in various industries, from finance to marketing, to forecast trends and make better business decisions.
+
+**Performing regression analysis with Copilot in Excel**                  
+Follow this step-by-step guide to perform a regression analysis with Copilot in Excel, using a dataset that includes stock prices and interest rates:
+
+**Format your data**: First, make sure your dataset is formatted as a table. Select your data, go to the Insert tab, choose Table, and ensure the My table has headers option is checked.
+
+**Open Copilot**: Navigate to the Home tab and click the green Copilot icon to begin.
+
+**Prompt for regression**: In the prompt box, type: Perform a linear regression with interest rates as the independent variable and stock price as the dependent variable.
+
+Follow Copilot’s steps: Copilot will guide you through selecting the two variables—interest rates (independent) and stock prices (dependent). Once selected, Copilot will perform the analysis.
+
+**Visualizing the data with a scatter plot**          
+After running the regression analysis, it’s important to visualize the data to better understand the relationship between variables. Scatter plots are effective for this as they display the individual data points and reveal patterns or trends, making it easier to assess the strength and direction of the relationship. Copilot will instruct you to:
+
+Insert a scatter plot: Go to the Insert tab, select Scatter from the Charts section, and choose Scatter with only markers.
+
+**Add a trendline**: Right-click on any data point, then select Add a Trendline.
+
+**Format the trendline**: Choose Linear as the trendline type and check the options Display Equation on Chart and Display R-squared Value on Chart.
+
+**Interpreting the regression equation and R-squared value**nnnnnnnnnnnnn
+The regression equation and R-squared value are essential for understanding the results of your analysis:
+
+**The regression equation**: This formula shows the relationship between the independent and dependent variables. For example, it might indicate how much stock prices change based on interest rate fluctuations.
+
+**The R-squared value**: This value ranges from 0 to 1 and indicates how well the data fits the trendline. The closer the value is to 1, the stronger the relationship between the variables.
+
+After displaying the equation and R-squared value, it’s a good idea to format them for clarity. Increase the font size and choose a bright color to make the information more visible on the chart.
