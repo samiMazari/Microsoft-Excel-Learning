@@ -30,7 +30,7 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 
 ## 🔗 Learning Resources I Recommend
 
-- [Microsoft Excel Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-excel)
+- [Microsoft Excel Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-excel-skills)
 - [ExcelJet – Learn Excel Functions Fast](https://exceljet.net/)
 - [Chandoo.org – Become Awesome in Excel](https://chandoo.org/)
 - [Excel Exposure – Free Excel Training](https://excelexposure.com/)
