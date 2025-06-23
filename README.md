@@ -1,5 +1,5 @@
-<h1 align="center">Microsoft Excel Professional Certificate</h1>
-<h1 align="center">-My Learning Journey-</h1>
+<h1 align="center">Microsoft Excel Professional Certificate</h1>            
+<h1 align="center">My Learning Journey</h1>
 
 Welcome to my professional Excel learning repository!               
 This project is part of my journey toward becoming highly proficient in Microsoft Excel through the [Microsoft Excel Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-excel) offered on Coursera.                   
