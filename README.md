@@ -1,11 +1,11 @@
 <h1 align="center">Microsoft Excel Professional Certificate</h1>
 <h1 align="center">My Learning Journey</h1>
 
-Welcome to my professional Excel learning repository!  
-This project is part of my journey toward becoming highly proficient in Microsoft Excel through the [Microsoft Excel Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-excel) offered on Coursera.
+Welcome to my professional Excel learning repository!               
+This project is part of my journey toward becoming highly proficient in Microsoft Excel through the [Microsoft Excel Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-excel) offered on Coursera.                   
 
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me        
 
 Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about analytics, spreadsheets, and business intelligence tools. This repository reflects my dedication to mastering Excel and applying it to real-world use cases in data analysis and reporting.
 
