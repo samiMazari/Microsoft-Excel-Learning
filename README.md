@@ -17,6 +17,4 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 
 ---
 
-## 📁 Repository Structure
-
          
