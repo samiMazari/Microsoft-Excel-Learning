@@ -15,16 +15,16 @@ avoid pitfalls such as infinite loops by using exit conditions effectively
 
 use the Offset function to enhance dynamic loop functionality
 
-**Understanding loops in VBA**                     
+**Understanding loops in VBA**                      
 Loops are control structures that repeat a code block until a specific condition is met. They are essential for automating tasks like iterating through rows and columns or processing lists of data.
 
 Imagine you have an Excel sheet with sales data for multiple regions, organized by rows, and you need to calculate the total sales for each region. Instead of manually summing the data for each row, you can use a loop to automate this process.
 
-**Types of loops in VBA**            
-For...Next loop: Ideal for a fixed number of iterations.          
-Dim i As Integer              
-For i = 1 To 10                
-    Cells(i, 1).Value = i            
+**Types of loops in VBA**             
+For...Next loop: Ideal for a fixed number of iterations.                                 
+Dim i As Integer                               
+For i = 1 To 10                            
+    Cells(i, 1).Value = i                    
 Next i                     
 
 Walkthrough:       
