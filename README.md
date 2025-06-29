@@ -5,7 +5,7 @@
 This project is part of my journey toward becoming highly proficient in Microsoft Excel through the [Microsoft Excel Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-excel-skills) offered on Coursera.                       
 
 
-## 🧑‍💻 About Me        
+##  About Me        
 
 Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about analytics, spreadsheets, and business intelligence tools. This repository reflects my dedication to mastering Excel and applying it to real-world use cases in data analysis and reporting.
 
@@ -17,7 +17,7 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 
 ---
 
-## 🔍 What You'll Learn Here
+##  What You'll Learn Here
 
 - Essential Excel formulas (LOOKUPs, IF statements, text & date functions)           
 - Sorting, filtering, and data cleaning                         
@@ -27,7 +27,7 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 - Introduction to Power Query and basic VBA/macros             
 
 
-## 🔗 Learning Resources I Recommend
+##  Learning Resources I Recommend
 
 - [Microsoft Excel Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-excel-skills)
 - [ExcelJet – Learn Excel Functions Fast](https://exceljet.net/)
@@ -36,7 +36,7 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 
 
 
-## 🧠 Goals of This Repository
+##  Goals of This Repository
 
 - Showcase my structured learning of Excel tools and techniques  
 - Create a portfolio of applied Excel skills  
@@ -45,7 +45,7 @@ Hi, I'm **Mohamed Sami Mazari**, a data science & IA student passionate about an
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Feel free to explore the content, suggest improvements, or reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamed-sami-mazari/) if you'd like to collaborate or provide feedback.
 
