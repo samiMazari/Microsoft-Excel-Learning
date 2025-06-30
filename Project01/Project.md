@@ -1,3 +1,5 @@
+<h1 align="center"> Smarthpne Dataset </h1>   
+
 ## About Dataset
 This dataset contains detailed information on smartphones available in India. It has been cleaned and curated to help you explore, analyze, and model smartphone features and pricing trends across major brands like Samsung, OnePlus, Realme, Motorola, and more.
 
