@@ -37,5 +37,4 @@ Trend Analysis in Smartphone Technology
 
 Budget-based Recommendation Systems
 
-Cleaned and Ready
-All categorical and numerical fields have been preprocessed and cleaned, making this dataset ideal for building models or creating visualizations.
+
