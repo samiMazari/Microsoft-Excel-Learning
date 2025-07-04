@@ -25,7 +25,7 @@ Screen Size, Refresh Rate, Resolution
 
 Operating System
 
-Use Cases -
+Use Cases 
 
 Exploratory Data Analysis
 
