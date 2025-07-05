@@ -18,7 +18,7 @@ The goal of this project is to explore how certain technical specifications infl
 
 ---
 
-## 🗂 Dataset Overview
+##  Dataset Overview
 
 The dataset includes multiple smartphone models along with specifications such as:
 
@@ -72,7 +72,7 @@ The dataset includes multiple smartphone models along with specifications such a
 
 ---
 
-📁 *This project is part of my data analysis portfolio using Excel. Feel free to explore, fork, or suggest improvements!*
+ *This project is part of my data analysis portfolio using Excel. Feel free to explore, fork, or suggest improvements!*
 
 
 
