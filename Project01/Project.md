@@ -16,7 +16,7 @@ The goal of this project is to explore how certain technical specifications infl
 - **Battery capacity**
 - **Fast charging availability**
 
----
+
 
 ##  Dataset Overview
 
@@ -29,7 +29,7 @@ The dataset includes multiple smartphone models along with specifications such a
 - Display type and refresh rate
 - Price
 
----
+
 
 ##  Steps Performed
 
@@ -63,7 +63,7 @@ The dataset includes multiple smartphone models along with specifications such a
 - **Fast charging** and **NFC support** are more common in mid-to-high-end devices.
 - **Battery capacity** above 5000mAh doesn’t always increase the price significantly — suggesting it's not a premium-only feature.
 
----
+
 
 
 ##  Source
