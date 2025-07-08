@@ -18,17 +18,6 @@ The goal of this project is to explore how certain technical specifications infl
 
 
 
-##  Dataset Overview
-
-The dataset includes multiple smartphone models along with specifications such as:
-
-- Brand and model
-- RAM, Storage, Battery
-- Camera specs
-- Connectivity features (5G, NFC, IR Blaster)
-- Display type and refresh rate
-- Price
-
 
 
 ##  Steps Performed
